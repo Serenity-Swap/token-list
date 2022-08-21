@@ -2,13 +2,16 @@
   "name": "PancakeSwap Default",
   "timestamp": "2022-03-01T08:37:04.410Z",
   "version": {
-    "major": 2,
+    "major": 2,$ git tag -s mytag
+    # Creates a signed tag
     "minor": 16,
     "patch": 5
   },
   "logoURI": "https://pancakeswap.finance/logo.png",
   "keywords": [
-    "pancakeswap",
+    "pancakeswap",$ git tag -v mytag
+    # Verifies the signed tag
+  
     "default"
   ],
   "tokens": [
@@ -117,4 +120,5 @@
       "logoURI": "https://tokens.pancakeswap.finance/images/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
     }
   ]
-}
+}https://opencollective.com/alexandra-design/expenses/86446
+
